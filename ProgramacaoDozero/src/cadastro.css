@@ -1,0 +1,73 @@
+
+
+box{
+	width:300px;
+}
+.box button{
+
+	width:100%;
+}
+.input-field{
+	width: 280px;
+}
+.row{
+	margin:10px;
+	display:block;
+}
+.left{
+	margin-right:40px;
+
+}
+.right{
+	margin-top:15px;
+}
+
+/*desktop*/
+@media only screen and (min-width:768px){
+	.row{ 
+display: flex;
+	margin: 18px 0
+	     }
+	.input-field{
+		width:340px;
+	}
+	.right{
+		margin:0;
+	}
+}
+	     
+	.campo-senha {
+    position: relative;
+    width: 100%;
+}
+
+/*css pra ver senha*/
+/* Campo senha */
+.campo-senha {
+    position: relative;
+    width: 100%; /* ocupa toda a coluna, não a linha inteira */
+}
+
+/* Input dentro do campo senha */
+.campo-senha input {
+    width: 340px; /* ocupa 100% da coluna */
+    padding-right: 40px; /* espaço para o olhinho */
+    height: 35px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+/* Olhinho dentro do input */
+.campo-senha .olho {
+    position: absolute;
+    right: 10px; /* distancia da borda direita do input */
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

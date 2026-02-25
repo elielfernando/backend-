@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\Aula8Contralador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Aula8Contralador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\UsuarioControllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UsuarioControllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\aula11Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\aula11Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\CadastroResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CadastroResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\CadastroRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CadastroRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\LoginResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\LoginResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\EsqueceuSenhaResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\EsqueceuSenhaResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\EsqueceuSenhaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\EsqueceuSenhaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aula8Contralador.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\Aula8Contralador.cs",
+              "RelativeDocumentMoniker": "Controllers\\Aula8Contralador.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\Aula8Contralador.cs",
+              "RelativeToolTip": "Controllers\\Aula8Contralador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:21:46.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Veiculo.cs",
+              "RelativeToolTip": "Models\\Veiculo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T18:27:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastroResult.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\CadastroResult.cs",
+              "RelativeDocumentMoniker": "Models\\CadastroResult.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\CadastroResult.cs",
+              "RelativeToolTip": "Models\\CadastroResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:02:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aula11Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\aula11Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\aula11Controller.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\aula11Controller.cs",
+              "RelativeToolTip": "Controllers\\aula11Controller.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T18:32:32.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Carro.cs",
+              "RelativeDocumentMoniker": "Models\\Carro.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Carro.cs",
+              "RelativeToolTip": "Models\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T18:37:52.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Moto.cs",
+              "RelativeDocumentMoniker": "Models\\Moto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\Moto.cs",
+              "RelativeToolTip": "Models\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T18:25:39.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadastroRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\CadastroRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CadastroRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\CadastroRequest.cs",
+              "RelativeToolTip": "Models\\CadastroRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:02:22.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioControllers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\UsuarioControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioControllers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Controllers\\UsuarioControllers.cs",
+              "RelativeToolTip": "Controllers\\UsuarioControllers.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:53:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:28:10.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:59:03.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EsqueceuSenhaResult.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\EsqueceuSenhaResult.cs",
+              "RelativeDocumentMoniker": "Models\\EsqueceuSenhaResult.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\EsqueceuSenhaResult.cs",
+              "RelativeToolTip": "Models\\EsqueceuSenhaResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:03:07.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResult.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\LoginResult.cs",
+              "RelativeDocumentMoniker": "Models\\LoginResult.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\LoginResult.cs",
+              "RelativeToolTip": "Models\\LoginResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:00:16.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EsqueceuSenhaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\EsqueceuSenhaRequest.cs",
+              "RelativeDocumentMoniker": "Models\\EsqueceuSenhaRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programa\u00E7oa\\Programa\u00E7ao Zero\\backend\\ProgramacaoDozero\\ProgramacaoDozero\\Models\\EsqueceuSenhaRequest.cs",
+              "RelativeToolTip": "Models\\EsqueceuSenhaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:03:01.471Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

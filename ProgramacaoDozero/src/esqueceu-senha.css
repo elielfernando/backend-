@@ -1,0 +1,13 @@
+button{
+	width: 100%
+}
+.esqueceu-senha{
+	float:right;
+    font-size:12px;
+}
+input[type="email"],[type="password"]{
+	width:100%
+}
+.box{
+	width:300px;
+}
